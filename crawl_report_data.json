@@ -1,0 +1,297 @@
+{
+    "unique_pages": 7500,
+    "longest_page": {
+        "url": "http://www.ics.uci.edu/~cs224",
+        "word_count": 78184
+    },
+    "top_50_words": [
+        [
+            "research",
+            14404
+        ],
+        [
+            "ramesh",
+            13341
+        ],
+        [
+            "data",
+            12266
+        ],
+        [
+            "computer",
+            11017
+        ],
+        [
+            "information",
+            10656
+        ],
+        [
+            "uci",
+            9965
+        ],
+        [
+            "learning",
+            9804
+        ],
+        [
+            "ics",
+            8725
+        ],
+        [
+            "jain",
+            8473
+        ],
+        [
+            "students",
+            8364
+        ],
+        [
+            "current",
+            8331
+        ],
+        [
+            "science",
+            8236
+        ],
+        [
+            "university",
+            8166
+        ],
+        [
+            "search",
+            8155
+        ],
+        [
+            "us",
+            6974
+        ],
+        [
+            "news",
+            6677
+        ],
+        [
+            "computing",
+            6558
+        ],
+        [
+            "systems",
+            6521
+        ],
+        [
+            "events",
+            6418
+        ],
+        [
+            "irvine",
+            6412
+        ],
+        [
+            "past",
+            6318
+        ],
+        [
+            "machine",
+            5594
+        ],
+        [
+            "read",
+            5369
+        ],
+        [
+            "software",
+            5245
+        ],
+        [
+            "courses",
+            5019
+        ],
+        [
+            "pdf",
+            5011
+        ],
+        [
+            "people",
+            4806
+        ],
+        [
+            "new",
+            4708
+        ],
+        [
+            "projects",
+            4554
+        ],
+        [
+            "models",
+            4503
+        ],
+        [
+            "books",
+            4483
+        ],
+        [
+            "access",
+            4479
+        ],
+        [
+            "time",
+            4464
+        ],
+        [
+            "companies",
+            4372
+        ],
+        [
+            "dechter",
+            4341
+        ],
+        [
+            "vision",
+            4336
+        ],
+        [
+            "student",
+            4230
+        ],
+        [
+            "contact",
+            4173
+        ],
+        [
+            "home",
+            4062
+        ],
+        [
+            "uc",
+            4023
+        ],
+        [
+            "theme",
+            3975
+        ],
+        [
+            "favorite",
+            3954
+        ],
+        [
+            "experiential",
+            3939
+        ],
+        [
+            "school",
+            3861
+        ],
+        [
+            "faculty",
+            3777
+        ],
+        [
+            "using",
+            3775
+        ],
+        [
+            "one",
+            3694
+        ],
+        [
+            "based",
+            3596
+        ],
+        [
+            "intent",
+            3551
+        ],
+        [
+            "paper",
+            3508
+        ]
+    ],
+    "subdomains": {
+        "accessibility.ics.uci.edu": 6,
+        "acoi.ics.uci.edu": 107,
+        "archive-beta.ics.uci.edu": 11,
+        "archive.ics.uci.edu": 192,
+        "asterix.ics.uci.edu": 7,
+        "betapro.proteomics.ics.uci.edu": 4,
+        "bit.ics.uci.edu": 1,
+        "cdb.ics.uci.edu": 44,
+        "cert.ics.uci.edu": 34,
+        "checkin.ics.uci.edu": 2,
+        "chemdb.ics.uci.edu": 43,
+        "chenli.ics.uci.edu": 10,
+        "cloudberry.ics.uci.edu": 5,
+        "cml.ics.uci.edu": 265,
+        "code.ics.uci.edu": 13,
+        "computableplant.ics.uci.edu": 118,
+        "courselisting.ics.uci.edu": 4,
+        "create.ics.uci.edu": 7,
+        "cs.ics.uci.edu": 12,
+        "cs.uci.edu": 2,
+        "deeprxn.ics.uci.edu": 31,
+        "dgillen.ics.uci.edu": 32,
+        "ds4all.ics.uci.edu": 9,
+        "dynamo.ics.uci.edu": 33,
+        "edgelab.ics.uci.edu": 7,
+        "emj.ics.uci.edu": 41,
+        "evoke.ics.uci.edu": 4,
+        "fellowships.ics.uci.edu": 3,
+        "flamingo.ics.uci.edu": 29,
+        "fr.ics.uci.edu": 3,
+        "futurehealth.ics.uci.edu": 170,
+        "graphics.ics.uci.edu": 1,
+        "hack.ics.uci.edu": 1,
+        "hobbes.ics.uci.edu": 11,
+        "hpi.ics.uci.edu": 5,
+        "i-sensorium.ics.uci.edu": 5,
+        "icde2023.ics.uci.edu": 46,
+        "ics.uci.edu": 1425,
+        "industryshowcase.ics.uci.edu": 24,
+        "informatics.ics.uci.edu": 27,
+        "informatics.uci.edu": 7,
+        "intranet.ics.uci.edu": 1,
+        "ipubmed.ics.uci.edu": 1,
+        "isg.ics.uci.edu": 205,
+        "jgarcia.ics.uci.edu": 40,
+        "luci.ics.uci.edu": 4,
+        "mailman.ics.uci.edu": 38,
+        "malek.ics.uci.edu": 1,
+        "mcs.ics.uci.edu": 12,
+        "mdogucu.ics.uci.edu": 1,
+        "mds.ics.uci.edu": 9,
+        "mhcid.ics.uci.edu": 19,
+        "mlphysics.ics.uci.edu": 154,
+        "mswe.ics.uci.edu": 10,
+        "mupro.proteomics.ics.uci.edu": 3,
+        "myip.ics.uci.edu": 1,
+        "nalini.ics.uci.edu": 7,
+        "ngs.ics.uci.edu": 1935,
+        "oai.ics.uci.edu": 6,
+        "pepito.proteomics.ics.uci.edu": 5,
+        "psearch.ics.uci.edu": 1,
+        "radicle.ics.uci.edu": 1,
+        "riscit.ics.uci.edu": 3,
+        "scale.ics.uci.edu": 7,
+        "scratch.proteomics.ics.uci.edu": 4,
+        "seal.ics.uci.edu": 49,
+        "selectpro.proteomics.ics.uci.edu": 7,
+        "sherlock.ics.uci.edu": 7,
+        "stairs.ics.uci.edu": 3,
+        "stat.ics.uci.edu": 6,
+        "stat.uci.edu": 2,
+        "summeracademy.ics.uci.edu": 13,
+        "tad.ics.uci.edu": 3,
+        "tastier.ics.uci.edu": 1,
+        "tutoring.ics.uci.edu": 5,
+        "unite.ics.uci.edu": 10,
+        "vision.ics.uci.edu": 211,
+        "wics.ics.uci.edu": 547,
+        "wiki.ics.uci.edu": 1,
+        "www-db.ics.uci.edu": 25,
+        "www.cs.uci.edu": 4,
+        "www.ics.uci.edu": 1304,
+        "www.informatics.ics.uci.edu": 6,
+        "www.informatics.uci.edu": 16,
+        "www.stat.uci.edu": 5,
+        "xtune.ics.uci.edu": 6
+    }
+}
