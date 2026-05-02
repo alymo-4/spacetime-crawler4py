@@ -1,209 +1,209 @@
 {
-    "unique_pages": 7500,
+    "unique_pages": 5400,
     "longest_page": {
         "url": "http://www.ics.uci.edu/~cs224",
         "word_count": 78184
     },
     "top_50_words": [
         [
-            "research",
-            14404
-        ],
-        [
-            "ramesh",
-            13341
-        ],
-        [
             "data",
-            12266
-        ],
-        [
-            "computer",
-            11017
-        ],
-        [
-            "information",
-            10656
+            9690
         ],
         [
             "uci",
-            9965
-        ],
-        [
-            "learning",
-            9804
+            9469
         ],
         [
             "ics",
-            8725
+            8612
         ],
         [
-            "jain",
-            8473
+            "research",
+            8522
         ],
         [
-            "students",
-            8364
+            "learning",
+            7569
         ],
         [
-            "current",
-            8331
-        ],
-        [
-            "science",
-            8236
+            "computer",
+            7108
         ],
         [
             "university",
-            8166
+            7010
         ],
         [
-            "search",
-            8155
+            "science",
+            6775
         ],
         [
-            "us",
-            6974
-        ],
-        [
-            "news",
-            6677
-        ],
-        [
-            "computing",
-            6558
-        ],
-        [
-            "systems",
-            6521
-        ],
-        [
-            "events",
-            6418
+            "information",
+            6594
         ],
         [
             "irvine",
-            6412
+            5721
         ],
         [
-            "past",
-            6318
-        ],
-        [
-            "machine",
-            5594
-        ],
-        [
-            "read",
-            5369
+            "systems",
+            5143
         ],
         [
             "software",
-            5245
+            5088
         ],
         [
-            "courses",
-            5019
-        ],
-        [
-            "pdf",
-            5011
-        ],
-        [
-            "people",
-            4806
-        ],
-        [
-            "new",
-            4708
-        ],
-        [
-            "projects",
-            4554
-        ],
-        [
-            "models",
-            4503
-        ],
-        [
-            "books",
-            4483
-        ],
-        [
-            "access",
-            4479
-        ],
-        [
-            "time",
-            4464
-        ],
-        [
-            "companies",
-            4372
+            "search",
+            4368
         ],
         [
             "dechter",
-            4341
+            4293
         ],
         [
-            "vision",
-            4336
+            "access",
+            4228
         ],
         [
-            "student",
-            4230
+            "students",
+            4019
+        ],
+        [
+            "machine",
+            4007
         ],
         [
             "contact",
-            4173
+            3933
+        ],
+        [
+            "student",
+            3923
         ],
         [
             "home",
-            4062
+            3705
         ],
         [
-            "uc",
-            4023
-        ],
-        [
-            "theme",
-            3975
-        ],
-        [
-            "favorite",
-            3954
-        ],
-        [
-            "experiential",
-            3939
+            "news",
+            3665
         ],
         [
             "school",
-            3861
-        ],
-        [
-            "faculty",
-            3777
-        ],
-        [
-            "using",
-            3775
-        ],
-        [
-            "one",
-            3694
-        ],
-        [
-            "based",
-            3596
+            3570
         ],
         [
             "intent",
-            3551
+            3537
+        ],
+        [
+            "models",
+            3516
+        ],
+        [
+            "edu",
+            3403
+        ],
+        [
+            "faculty",
+            3300
+        ],
+        [
+            "new",
+            3300
         ],
         [
             "paper",
-            3508
+            3059
+        ],
+        [
+            "graduate",
+            2988
+        ],
+        [
+            "events",
+            2975
+        ],
+        [
+            "project",
+            2802
+        ],
+        [
+            "time",
+            2798
+        ],
+        [
+            "based",
+            2758
+        ],
+        [
+            "screen",
+            2757
+        ],
+        [
+            "algorithms",
+            2749
+        ],
+        [
+            "com",
+            2715
+        ],
+        [
+            "program",
+            2702
+        ],
+        [
+            "people",
+            2677
+        ],
+        [
+            "gi",
+            2674
+        ],
+        [
+            "rina",
+            2663
+        ],
+        [
+            "conference",
+            2643
+        ],
+        [
+            "using",
+            2637
+        ],
+        [
+            "california",
+            2635
+        ],
+        [
+            "location",
+            2533
+        ],
+        [
+            "undergraduate",
+            2523
+        ],
+        [
+            "community",
+            2508
+        ],
+        [
+            "ai",
+            2493
+        ],
+        [
+            "publications",
+            2478
+        ],
+        [
+            "projects",
+            2461
+        ],
+        [
+            "dataset",
+            2457
         ]
     ],
     "subdomains": {
@@ -220,7 +220,7 @@
         "chemdb.ics.uci.edu": 43,
         "chenli.ics.uci.edu": 10,
         "cloudberry.ics.uci.edu": 5,
-        "cml.ics.uci.edu": 265,
+        "cml.ics.uci.edu": 156,
         "code.ics.uci.edu": 13,
         "computableplant.ics.uci.edu": 118,
         "courselisting.ics.uci.edu": 4,
@@ -228,7 +228,7 @@
         "cs.ics.uci.edu": 12,
         "cs.uci.edu": 2,
         "deeprxn.ics.uci.edu": 31,
-        "dgillen.ics.uci.edu": 32,
+        "dgillen.ics.uci.edu": 29,
         "ds4all.ics.uci.edu": 9,
         "dynamo.ics.uci.edu": 33,
         "edgelab.ics.uci.edu": 7,
@@ -244,13 +244,13 @@
         "hpi.ics.uci.edu": 5,
         "i-sensorium.ics.uci.edu": 5,
         "icde2023.ics.uci.edu": 46,
-        "ics.uci.edu": 1425,
+        "ics.uci.edu": 1407,
         "industryshowcase.ics.uci.edu": 24,
         "informatics.ics.uci.edu": 27,
         "informatics.uci.edu": 7,
         "intranet.ics.uci.edu": 1,
         "ipubmed.ics.uci.edu": 1,
-        "isg.ics.uci.edu": 205,
+        "isg.ics.uci.edu": 203,
         "jgarcia.ics.uci.edu": 40,
         "luci.ics.uci.edu": 4,
         "mailman.ics.uci.edu": 38,
@@ -264,7 +264,6 @@
         "mupro.proteomics.ics.uci.edu": 3,
         "myip.ics.uci.edu": 1,
         "nalini.ics.uci.edu": 7,
-        "ngs.ics.uci.edu": 1935,
         "oai.ics.uci.edu": 6,
         "pepito.proteomics.ics.uci.edu": 5,
         "psearch.ics.uci.edu": 1,
@@ -284,11 +283,11 @@
         "tutoring.ics.uci.edu": 5,
         "unite.ics.uci.edu": 10,
         "vision.ics.uci.edu": 211,
-        "wics.ics.uci.edu": 547,
+        "wics.ics.uci.edu": 509,
         "wiki.ics.uci.edu": 1,
         "www-db.ics.uci.edu": 25,
         "www.cs.uci.edu": 4,
-        "www.ics.uci.edu": 1304,
+        "www.ics.uci.edu": 1309,
         "www.informatics.ics.uci.edu": 6,
         "www.informatics.uci.edu": 16,
         "www.stat.uci.edu": 5,
